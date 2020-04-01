@@ -7,13 +7,13 @@
 В результате тестирования выявлены следующие дефекты:
 
     Ошибка FAIL при запросе с валидным ключем 80b4...
-    https://github.com/xeniaplotnikova/KeyValidator/issues/1
+   https://github.com/xeniaplotnikova/KeyValidator/issues/1
 
     Ошибка FAIL при запросе с валидным ключом 387eedc6... 
-    https://github.com/xeniaplotnikova/KeyValidator/issues/2
-    
+   https://github.com/xeniaplotnikova/KeyValidator/issues/2
+   
     Ошибка OK при запросе с невалидным ключом 2fb98b... 
-    https://github.com/xeniaplotnikova/KeyValidator/issues/3
+   https://github.com/xeniaplotnikova/KeyValidator/issues/3
 
 **Описание процесса тестирования**
 
